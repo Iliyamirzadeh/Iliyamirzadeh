@@ -38,8 +38,7 @@ I'm a self-taught developer focused on building real-world web applications with
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Iliyamirzadeh&show_icons=true&theme=tokyonight)
-
+![](animation.gif)
 </div>
 <!--
 **Iliyamirzadeh/Iliyamirzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
