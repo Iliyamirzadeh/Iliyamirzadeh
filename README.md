@@ -1,6 +1,6 @@
 <div align="left">
 
-![](./animation.gif)
+![](./animation2.gif)
 
 # Hi, I'm Iliya Mirzadeh 👋
 
