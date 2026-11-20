@@ -1,6 +1,6 @@
 <div align="left">
 
-![Banner](./photo_2026-11-20_11-06-45.jpg)
+![](./animation.gif)
 
 # Hi, I'm Iliya Mirzadeh 👋
 
