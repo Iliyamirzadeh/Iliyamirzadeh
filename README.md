@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./photo_2026-11-20_11-06-45.jpg">
+</p>
 <h2>Iliya Mirzadeh</h2>
 
 <p>
